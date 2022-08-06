@@ -1,2 +1,2 @@
 # Log
-Log Function
+Function to add a log system in your code.
